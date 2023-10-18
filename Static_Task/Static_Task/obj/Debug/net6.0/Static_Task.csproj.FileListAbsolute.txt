@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\bin\Debug\net6.0\Static_Task.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\bin\Debug\net6.0\Static_Task.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\bin\Debug\net6.0\Static_Task.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\bin\Debug\net6.0\Static_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\bin\Debug\net6.0\Static_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\refint\Static_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\Static_Task.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Static_KeyWord\Static_Task\Static_Task\obj\Debug\net6.0\ref\Static_Task.dll
